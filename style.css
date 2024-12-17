@@ -1,0 +1,225 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#MainDiv {
+    max-width: 1404px;
+    width: 100%;
+    padding: 96px;
+    background: #E8EEFF;
+    margin: 0 auto;
+    margin-top: 108px;
+    margin-bottom: 108px;
+}
+
+#TitleDiv {
+    max-width: 824px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 64px;
+    text-align: center;
+}
+
+#TitleH {
+    color: #181D27;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 80px;
+    margin-bottom: 23px;
+}
+
+#analyticsSpan {
+    color: #05F;
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 80px;
+}
+
+#smarterSpan {
+    color: #6941C6;
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 80px;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+}
+
+#PowerfulP {
+    color: #535862;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+#ImgDiv {
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 63px;
+}
+
+#FirstInlineBlockDiv {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    max-width: 340px;
+    width: 100%;
+    background: #FFFFFF;
+    border-radius: 8px;
+    padding: 16px;
+    height: 210px;
+    margin-left: 59px;
+}
+
+#SecInlineBlockDiv {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    max-width: 340px;
+    width: 100%;
+    background: #FFFFFF;
+    border-radius: 8px;
+    padding: 16px;
+    height: 210px;
+    margin: 0 32px;
+
+}
+
+#ThirdInlineBlcockDiv {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    max-width: 340px;
+    width: 100%;
+    background: #FFFFFF;
+    border-radius: 8px;
+    padding: 16px;
+    height: 210px;
+
+}
+
+#ShareH {
+    margin-top: 19px;
+    color: #181D27;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+}
+
+#WhetherP {
+    color: #535862;
+    line-height: 24px;
+}
+
+#DeliverH {
+    margin-top: 19px;
+    color: #181D27;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+
+}
+
+#AnP {
+    color: #535862;
+    line-height: 24px;
+}
+
+#Marginistvis {
+    margin-bottom: 80px;
+}
+#ManageH {
+    margin-top: 19px;
+    color: #181D27;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+
+}
+
+#MeasureP {
+    color: #535862;
+    line-height: 24px;
+
+}
+
+#LastDiv {
+    max-width: 1016px;
+    width: 100%;
+    border-radius: 24px;
+    background: #53389E;
+    margin: 0 auto;
+    height: 400px;
+}
+
+#LastTextDiv {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 536px;
+    width: 100%;
+    padding: 64px;
+}
+
+#LastimgDiv {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 260px;
+    width: 100%;
+
+}
+
+#GiveH {
+    color: #FFF;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+}
+
+#JoinP {
+    color: #E9D7FE;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 47px;
+    margin-top: 19px;
+}
+
+#LearnButtonDiv {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#GetButtonDiv {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#MoreButton {
+    color: #414651;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;
+    border-radius: 8px;
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+    padding: 12px 18px;
+    margin-right: 18px;
+
+}
+
+#StartedButton {
+    color: #FFF;
+    font-weight: 600;
+    line-height: 24px;
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 2px solid #FFF;
+    background: #7F56D9;
+}
+
+#LastimgDiv img {
+    border-top-right-radius: 16px;
+    border-bottom-right-radius: 16px;
+}
